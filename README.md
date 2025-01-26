@@ -1,7 +1,7 @@
 # AI Portfolio Chatbot
 
-![image alt]()
-![image alt]()
+![image alt](https://github.com/rajatrajat0210/AI-Portfolio-Chatbot/blob/master/AI-personal-Chatbot.jpg?raw=true)
+![image alt](https://github.com/rajatrajat0210/AI-Portfolio-Chatbot/blob/master/dictionary-data-forAI.jpg?raw=true)
 
 The **AI Portfolio Chatbot** is an interactive and AI-powered chatbot that serves as a dynamic portfolio. It allows users to explore your professional achievements, skills, and projects through a conversational interface. Built with cutting-edge AI technologies, this chatbot showcases your expertise in an engaging and user-friendly manner.
 
